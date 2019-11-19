@@ -8,7 +8,7 @@ namespace tempovida
 {
     class tempo
     {
-        private DateTime tempodevida = new DateTime().Date;
+        private DateTime tempodevida = new D
 
         public string recebe
         {
