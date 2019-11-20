@@ -8,3 +8,13 @@ C:\Users\P114\source\repos\tempovida\obj\Debug\tempovida.csproj.GenerateResource
 C:\Users\P114\source\repos\tempovida\obj\Debug\tempovida.csproj.CoreCompileInputs.cache
 C:\Users\P114\source\repos\tempovida\obj\Debug\tempovida.exe
 C:\Users\P114\source\repos\tempovida\obj\Debug\tempovida.pdb
+C:\Users\P114\Source\Repos\tempo\obj\Debug\tempovida.csprojAssemblyReference.cache
+C:\Users\P114\Source\Repos\tempo\obj\Debug\tempovida.Form1.resources
+C:\Users\P114\Source\Repos\tempo\obj\Debug\tempovida.Properties.Resources.resources
+C:\Users\P114\Source\Repos\tempo\obj\Debug\tempovida.csproj.GenerateResource.cache
+C:\Users\P114\Source\Repos\tempo\obj\Debug\tempovida.csproj.CoreCompileInputs.cache
+C:\Users\P114\Source\Repos\tempo\obj\Debug\tempovida.exe
+C:\Users\P114\Source\Repos\tempo\obj\Debug\tempovida.pdb
+C:\Users\P114\Source\Repos\tempo\bin\Debug\tempovida.exe.config
+C:\Users\P114\Source\Repos\tempo\bin\Debug\tempovida.exe
+C:\Users\P114\Source\Repos\tempo\bin\Debug\tempovida.pdb

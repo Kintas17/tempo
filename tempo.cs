@@ -8,7 +8,7 @@ namespace tempovida
 {
     class tempo
     {
-        private DateTime tempodevida = new D
+        private DateTime tempodevida;
 
         public string recebe
         {
@@ -21,7 +21,25 @@ namespace tempovida
         {
             get
             {
-                return "O dia da semana em que você nasceu foi " + tempodevida.ToString("g");
+                DateTime hoje = DateTime.Now;
+                int anos = hoje.Year - tempodevida.Year;
+                int meses = hoje.Month - tempodevida.Month;
+                int dias = hoje.Day - tempodevida.Day;
+                string frase = "A sua idade é ";
+                if (meses < 0)
+                {
+                    anos--;
+                    meses += 12;
+                }
+                if (dias<0)
+                {
+                    meses--;
+                    dias += 30;
+                }
+                frase += anos.ToString() + " anos ";
+                frase += meses.ToString() + " meses e ";
+                frase += dias.ToString() + " dias ";
+                return frase;
             }
         }
     }
